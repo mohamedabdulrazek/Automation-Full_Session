@@ -37,3 +37,15 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+### Allure ###
+allure-results/
+
+### IntelliJ IDEA full ###
+.idea/
+
+### ProxyAI ###
+.proxyai/
+
+### Screenshots ###
+*.png
